@@ -4,6 +4,7 @@
 
 ## Build generated
 build/
+JCSwift/Pods
 DerivedData/
 
 ## Various settings

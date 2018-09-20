@@ -1,0 +1,80 @@
+PODS:
+  - Alamofire (4.7.2)
+  - BmobSDK (1.7.2)
+  - CryptoSwift (0.9.0)
+  - ESPullToRefresh (2.7)
+  - Hue (2.0.1)
+  - IQKeyboardManagerSwift (6.0.3)
+  - KeychainAccess (3.1.1)
+  - Kingfisher (4.8.0)
+  - NVActivityIndicatorView (4.2.1):
+    - NVActivityIndicatorView/Presenter (= 4.2.1)
+  - NVActivityIndicatorView/Presenter (4.2.1)
+  - ObjectMapper (3.1.0)
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - ReachabilitySwift (4.1.0)
+  - SnapKit (4.0.0)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - SwiftyJSON (4.1.0)
+  - SwiftyUserDefaults (3.0.1)
+  - TKSubmitTransition (2.0)
+  - WechatOpenSDK (1.8.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - BmobSDK (~> 1.7.0)
+  - CryptoSwift
+  - ESPullToRefresh
+  - Hue
+  - IQKeyboardManagerSwift
+  - KeychainAccess
+  - Kingfisher
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - R.swift
+  - ReachabilitySwift
+  - SnapKit
+  - SQLite.swift
+  - SwiftyJSON
+  - SwiftyUserDefaults
+  - TKSubmitTransition (from `https://github.com/entotsu/TKSubmitTransition.git`, branch `swift4`)
+  - WechatOpenSDK
+
+EXTERNAL SOURCES:
+  TKSubmitTransition:
+    :branch: swift4
+    :git: https://github.com/entotsu/TKSubmitTransition.git
+
+CHECKOUT OPTIONS:
+  TKSubmitTransition:
+    :commit: 29fac6072451a4def5cde567075bfc62a728bb1f
+    :git: https://github.com/entotsu/TKSubmitTransition.git
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  BmobSDK: e188cb31d6a8417ab668aee821da227d7512b865
+  CryptoSwift: bca8c5b653dcc2d9734409242a070ff53bafac86
+  ESPullToRefresh: 119e2710b82b75536aab2bbe4883ba119fca35c8
+  Hue: 354caec055fdc9d38b5ef33ca2e7224721843baf
+  IQKeyboardManagerSwift: 04e8679f85e496bb2c474eeb9284052f1b3c391c
+  KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  NVActivityIndicatorView: 8068ba3ad39cb44cbaab25d89ff2546b3f092681
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  TKSubmitTransition: 647b907508da58ba864141e3c4382442ec536d40
+  WechatOpenSDK: 676feec516a11173eafd1fe64b10d27babf28701
+
+PODFILE CHECKSUM: 986886118348945cf74395f797144b563f8e9425
+
+COCOAPODS: 1.4.0

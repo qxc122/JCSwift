@@ -1,0 +1,29 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+use_frameworks!
+
+target 'JCSwift' do
+pod 'IQKeyboardManagerSwift'
+pod 'Alamofire'
+pod 'Kingfisher'
+pod 'ReachabilitySwift'
+pod 'SwiftyJSON'
+pod 'ObjectMapper'
+pod 'SnapKit'
+pod 'NVActivityIndicatorView'
+pod 'Hue'
+pod 'TKSubmitTransition', :git => 'https://github.com/entotsu/TKSubmitTransition.git', :branch => 'swift4'
+#pod 'PermissionScope'
+pod 'R.swift'
+pod 'ESPullToRefresh'
+
+pod 'SQLite.swift'
+pod 'SwiftyUserDefaults'
+
+pod 'BmobSDK','~>1.7.0'
+
+pod 'CryptoSwift'
+pod 'KeychainAccess'
+pod 'WechatOpenSDK'
+end
